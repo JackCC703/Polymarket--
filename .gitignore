@@ -1,0 +1,18 @@
+# Security
+.env
+
+# Database
+*.db
+*.sqlite
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Output
+output.json
+*.log
+.DS_Store
